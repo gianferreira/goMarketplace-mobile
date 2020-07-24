@@ -1,6 +1,6 @@
-<!-- <h3 align="center">
-  <img alt="GoRestaurant" src="https://github.com/gianferreira/goRestaurant-mobile/blob/master/readme-logo.png" width="220px"/>
-</h3> -->
+<h3 align="center">
+  <img alt="GoMarketplace" src="https://github.com/gianferreira/goMarketplace-mobile/blob/master/readme-logo.png" width="230px"/>
+</h3>
 
 <h1 align="center">
   GoMarketplace - Mobile
@@ -14,15 +14,13 @@
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gianferreira/goMarketplace-mobile">
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td>
+      <img alt="Home" src="https://github.com/gianferreira/goMarketplace-mobile/blob/master/readme-home.png" width="300px"/>
     </td>
     <td>
-    </td>
-    <td>
-    </td>
-    <td>
+      <img alt="Cart" src="https://github.com/gianferreira/goMarketplace-mobile/blob/master/readme-cart.png" width="300px"/>
     </td>
   </tr>
 </table>
