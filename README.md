@@ -1,12 +1,12 @@
 <h3 align="center">
-  <img alt="GoMarketplace" src="https://github.com/gianferreira/goMarketplace-mobile/blob/master/readme-logo.png" width="230px"/>
+  <img alt="GoMarketplace" src="https://github.com/gianferreira/goMarketplace-mobile/blob/master/readme-logo.png" height="85px"/>
 </h3>
 
 <h1 align="center">
   GoMarketplace - Mobile
 </h1>
 
-<p align="center">Mobile em React Native da aplicação GoMarketplace.</p>
+<p align="center">Mobile em React Native da aplicação GoMarketplace</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/goMarketplace-mobile">
@@ -17,10 +17,10 @@
 <table align="center">
   <tr>
     <td>
-      <img alt="Home" src="https://github.com/gianferreira/goMarketplace-mobile/blob/master/readme-home.png" width="300px"/>
+      <img alt="Home" src="https://github.com/gianferreira/goMarketplace-mobile/blob/master/readme-home.png" width="420px"/>
     </td>
     <td>
-      <img alt="Cart" src="https://github.com/gianferreira/goMarketplace-mobile/blob/master/readme-cart.png" width="300px"/>
+      <img alt="Cart" src="https://github.com/gianferreira/goMarketplace-mobile/blob/master/readme-cart.png" width="420px"/>
     </td>
   </tr>
 </table>
@@ -80,8 +80,8 @@ yarn start
 </p>
 
 <blockquote align="center">
-  Este projeto foi desenvolvimento durante o
+  Este projeto foi desenvolvido durante o
     <a href="https://rocketseat.com.br/gostack">
-      Bootcamp da RocketSeat
+      Bootcamp da Rocketseat
     </a>
 </blockquote>
